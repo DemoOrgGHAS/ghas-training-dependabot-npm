@@ -1,0 +1,11 @@
+{
+  "name": "ghas-static-dependency-training",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Metadata-only GHAS training fixture. Do not install or run.",
+  "scripts": {},
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "0.0.8"
+  }
+}
