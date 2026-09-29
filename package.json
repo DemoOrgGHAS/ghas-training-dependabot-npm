@@ -5,7 +5,7 @@
   "description": "Metadata-only GHAS training fixture. Do not install or run.",
   "scripts": {},
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.18.1",
     "minimist": "0.0.8"
   }
 }
